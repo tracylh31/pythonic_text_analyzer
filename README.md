@@ -31,4 +31,4 @@ python text_analyzer.py
 
 ## Screencast
 
-<placeholder for Loom link>
+<https://www.loom.com/share/14c5482ab840410384fafa446e369ce9>
