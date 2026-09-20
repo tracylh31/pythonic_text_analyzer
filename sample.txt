@@ -1,0 +1,2 @@
+This is my sample file of words to use for a Python script
+Python will use this file so it needs to have repeated words unique words short and long words
