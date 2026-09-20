@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 def read_file(file_name):
     """Read and return the contents of a text file."""
     with open(file_name, "r") as file:
